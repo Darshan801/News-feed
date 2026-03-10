@@ -1,0 +1,9 @@
+fastapi 
+uvicorn 
+sqlalchemy 
+psycopg2-binary
+feedparser 
+aiohttp 
+sentence-transformers
+pydantic-settings 
+python-dotenv
